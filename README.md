@@ -23,7 +23,7 @@ This **Supermarket Billing Application** is a console-based program developed us
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/supermarket-billing-app.git
+   git clone https://github.com/karimullashaikdev/Supermarket_Project.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -97,5 +97,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 For any queries or suggestions, feel free to reach out:
 - **Name**: Karimulla Shaik
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: shaikkarimulladev@gmail.com
+- **GitHub**: https://github.com/karimullashaikdev
